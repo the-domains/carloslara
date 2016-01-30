@@ -1,0 +1,28 @@
+name: carloslara
+favicon: null
+layout_spectrum: 0.8343291410710663
+typography_spectrum: 0.6499469375703484
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.45579926250502467
+  lightness: 0.9285239330492914
+  saturation: 0.8373366079758853
+  rhythmicContrast: 0.7178003110457212
+purpose: []
